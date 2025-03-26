@@ -2,3 +2,4 @@ streamlit
 speechrecognition
 pyttsx3
 openai
+gtts
